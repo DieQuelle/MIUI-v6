@@ -18,12 +18,12 @@
   <string name="callrecordview_menu_show_called">Ausgehende Anrufe</string>
   <string name="callrecordview_menu_show_accepted">Angenommene Anrufen</string>
   <string name="callrecordview_menu_show_stranger">Unbekannte Nummer</string>
-  <string name="callrecordview_menu_show_new">New Contacts</string>
+  <string name="callrecordview_menu_show_new">Neue kontakte</string>
   <string name="callrecordview_menu_show_sim">%s calls</string>
-  <string name="callrecordview_menu_delete">Clear call log</string>
-  <string name="callrecordview_menu_delete_all">Clear call log</string>
-  <string name="callrecordview_menu_delete_missed">Clear missed calls</string>
-  <string name="callrecordview_menu_delete_called">Clear outgoing calls</string>
+  <string name="callrecordview_menu_delete">Anrufliste löschen</string>
+  <string name="callrecordview_menu_delete_all">Alle Anruflisten löschen</string>
+  <string name="callrecordview_menu_delete_missed">Verpasste Anruferliste löschen</string>
+  <string name="callrecordview_menu_delete_called">Ausgehende Anruferliste löschen</string>
   <string name="callrecordview_menu_delete_accepted">Clear answered calls</string>
   <string name="callrecordview_menu_delete_stranger">Clear unknown numbers</string>
   <string name="callrecordview_menu_delete_new">Clear call logs of new contacts</string>
