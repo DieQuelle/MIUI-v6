@@ -16,7 +16,7 @@
   <string name="callrecordview_menu_show_all">All calls</string>
   <string name="callrecordview_menu_show_missed">Verpasste Anrufe</string>
   <string name="callrecordview_menu_show_called">Ausgehende Anrufe</string>
-  <string name="callrecordview_menu_show_accepted">Angenommene Anrufen</string>
+  <string name="callrecordview_menu_show_accepted">Angenommene Anrufe</string>
   <string name="callrecordview_menu_show_stranger">Unbekannte Nummer</string>
   <string name="callrecordview_menu_show_new">Neue kontakte</string>
   <string name="callrecordview_menu_show_sim">%s calls</string>
