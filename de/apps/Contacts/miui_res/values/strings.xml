@@ -4,19 +4,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="summary_kind_title">Summary</string>
-  <string name="callrecordview_item_newcontact">New contact</string>
+  <string name="callrecordview_item_newcontact">Neuer Kontakt</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sec</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sec</string>
-  <string name="callrecordview_item_op_time_short_outgoing">Outgoing:\u0020</string>
-  <string name="callrecordview_item_op_time_short_incoming">Incoming:\u0020</string>
-  <string name="callrecordview_item_op_time_missed">Didn\'t connect</string>
+  <string name="callrecordview_item_op_time_short_outgoing">Ausgehend:\u0020</string>
+  <string name="callrecordview_item_op_time_short_incoming">Eingehend:\u0020</string>
+  <string name="callrecordview_item_op_time_missed">Nicht Verbunden</string>
   <string name="callrecordview_item_op_time_rejected">Rejected</string>
   <string name="callrecordview_menu_show_title">Call log display</string>
   <string name="callrecordview_menu_show_all">All calls</string>
-  <string name="callrecordview_menu_show_missed">Missed calls</string>
-  <string name="callrecordview_menu_show_called">Outgoing calls</string>
-  <string name="callrecordview_menu_show_accepted">Answered calls</string>
+  <string name="callrecordview_menu_show_missed">Verpasste Anrufe</string>
+  <string name="callrecordview_menu_show_called">Ausgehende Anrufe</string>
+  <string name="callrecordview_menu_show_accepted">Angenommene Anrufen</string>
   <string name="callrecordview_menu_show_stranger">Calls from unknown numbers</string>
   <string name="callrecordview_menu_show_new">New Contacts</string>
   <string name="callrecordview_menu_show_sim">%s calls</string>
