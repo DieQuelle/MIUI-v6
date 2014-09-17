@@ -34,17 +34,17 @@
   <string name="callrecordview_menu_edit_call_note">Edit call note</string>
   <string name="delete_call_log_title">Choose call log</string>
   <string name="menu_dialpad_text">Dial pad</string>
-  <string name="dialer_empty_text_no_search_result">No contacts found</string>
+  <string name="dialer_empty_text_no_search_result">Keine Kontakte gefunden</string>
   <string name="dialer_empty_text_loading">Loading\u2026</string>
   <string name="dialer_empty_text_no_call_log">No recent contacts</string>
   <string name="callrecordview_menu_settings">Settings</string>
   <string name="callrecordview_menu_show">Filter</string>
-  <string name="callrecordview_menu_paste">Paste</string>
+  <string name="callrecordview_menu_paste">kopieren</string>
   <string name="openDialKeyboard">Dial pad</string>
   <string name="t9_search_guide_pinyin">Enter \"7\" and \"9\" to search for \"Steve Wozniak\"</string>
   <string name="t9_search_guide_zhuyin">Enter \"7\" and \"9\" to search for \"Steve Wozniak\"</string>
   <string name="date_time_set">Set</string>
-  <string name="sim_no_contact">Keine Kontakteauf Simkarte vorhanden</string>
+  <string name="sim_no_contact">Keine Kontakte auf Simkarte vorhanden</string>
   <string name="sim_indexed_contact_not_exist">Position %1$d on SIM card is invalid. Position must be between %2$d and %3$d.</string>
   <string name="sim_contact_search_error">An error occurred</string>
   <string name="service_provider">Directory</string>
@@ -54,8 +54,8 @@
     <item quantity="other">%1$d selected</item>
   </plurals>
   <string name="select_all">Alle Auswählen</string>
-  <string name="deselect_all">Deselect all</string>
-  <string name="select_none">Nothing selected</string>
+  <string name="deselect_all">Alle Abwählen</string>
+  <string name="select_none">Nichts gewählt</string>
   <string name="toast_finish_delete_call_log">Call log deleted</string>
   <string name="toast_finish_delete_selected_call_log">Call log deleted</string>
   <string name="confirm_delete_contact_all_call_logs">Delete call logs?</string>
